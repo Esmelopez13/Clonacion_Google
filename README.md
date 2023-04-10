@@ -17,7 +17,7 @@ HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los di
 En este proyecto me enfoque en construir la clonacion de la interfaz de Google. 
 contiene las siguientes secciones: 
 
-* Header: Seccion que involucra la foto de mi perfil, iconos y el menú con hipervinculos. 
+* Header: Seccion que involucra la foto de mi perfil, iconos y  el menu con hipervinculos
 
 * Main: Seccion del contenedor para los elementos centrals de la pagina: logo, barra de busqueda, iconos y botones. 
 
